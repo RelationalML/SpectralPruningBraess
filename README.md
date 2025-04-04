@@ -1,12 +1,12 @@
 # Spectral Graph Pruning Against Over-squashing and Over-smoothing (NeurIPS 2024)
 
-Adarsh Jamadandi \*, Celia Rubio-Madrigal \*, Rebekka Burkholz
+[![arXiv](https://img.shields.io/badge/arXiv-2404.04612-b31b1b.svg)](https://arxiv.org/abs/2404.04612)
+[![NeurIPS](https://img.shields.io/badge/NeurIPS-2024-purple.svg)](https://openreview.net/forum?id=EMkrwJY2de)
 
-\* Equal Contribution
+>Adarsh Jamadandi\*, Celia Rubio-Madrigal\*, Rebekka Burkholz.
+>CISPA Helmholtz Center for Information Security. \* Equal Contribution.
 
 This repository contains the code for the paper "Spectral Graph Pruning Against Over-squashing and Over-smoothing", which has been accepted at NeurIPS 2024!
-
-[OpenReview](https://openreview.net/forum?id=EMkrwJY2de) | [Arxiv](https://arxiv.org/abs/2404.04612)
 
 #### Abstract
 
